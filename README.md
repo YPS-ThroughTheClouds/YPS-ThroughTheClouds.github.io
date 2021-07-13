@@ -20,9 +20,9 @@ README: [Google Docs](https://docs.google.com/document/d/1G-I_GQldtJy40dqtlSODJe
 ## Sub-Project 3: `clientregistry`
 
 Code: [clientregistry.zip](assets/clientregistry.zip)
-README: [Google Docs]()
+README: [Google Docs](https://docs.google.com/document/d/1Nw9RWUsmNWJRJNYHotZYEa3PxFL6WrAj7QERIpn_j48/edit?usp=sharing)
 
 ## Sub-Project 4: `instantmessage`
 
 Code: [instantmessage.zip](assets/instantmessage.zip)
-README: [Google Docs](https://docs.google.com/document/d/1G-I_GQldtJy40dqtlSODJeMQQoRFjsx2llLz077UOPQ/edit?usp=sharing)
+README: [Google Docs](https://docs.google.com/document/d/1E67ts_sClYy5DEQPxzEVVztRYIeRqtt89QJwZCGoo8M/edit?usp=sharing)
