@@ -22,7 +22,7 @@ README: [Google Docs](https://docs.google.com/document/d/1G-I_GQldtJy40dqtlSODJe
 Code: [clientregistry.zip](assets/clientregistry.zip)
 README: [Google Docs](https://docs.google.com/document/d/1Nw9RWUsmNWJRJNYHotZYEa3PxFL6WrAj7QERIpn_j48/edit?usp=sharing)
 
-Still looking for a challenge? Try implementing [clientregistry2.0.zip](assets/clientregistry_2.0.zip)!
+Still looking for a challenge? Try implementing [clientregistry2.0.zip](assets/clientregistry_2.0.zip) (README [here](https://docs.google.com/document/d/1ujhdJVDxEC-HbJKKfjr2QuXZWx3dxxbbF09ps0X-Osg/edit#heading=h.tphjratfjhy5))!
 
 ## Sub-Project 4: `instantmessage`
 
