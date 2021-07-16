@@ -37,10 +37,10 @@ Solutions to all sub-projects can be downloaded [here](https://github.com/YPS-Th
 
 The workshop slides are linked below (in keynote and pdf formats):
 
-Day 1: Introduction [Keynote](slides/day1-intro.key) [PDF](slides/day1-intro.pdf)
-Day 2: Projects [Keynote](slides/day2-project.key) [PDF](slides/day2-project.pdf)
-Day 3: Projects (Contd.) [Keynote](slides/day3-project.key) [PDF](slides/day3-project.pdf)
-Day 4: Projects (wrap up) & Conclusion [Keynote](slides/day4-wrapup.key) [PDF](slides/day4-wrapup.pdf)
+* Day 1: Introduction [Keynote](slides/day1-intro.key) [PDF](slides/day1-intro.pdf)
+* Day 2: Projects [Keynote](slides/day2-project.key) [PDF](slides/day2-project.pdf)
+* Day 3: Projects (Contd.) [Keynote](slides/day3-project.key) [PDF](slides/day3-project.pdf)
+* Day 4: Projects (wrap up) & Conclusion [Keynote](slides/day4-wrapup.key) [PDF](slides/day4-wrapup.pdf)
 
 ## Further reading:
 
